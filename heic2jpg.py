@@ -4,7 +4,6 @@ Simple Python script which converts every '.heic' pictures into '.jpg' pictures 
 Last edited: 7th November 2021
 '''
 
-
 from PIL import Image
 import glob, os, pyheif
 
