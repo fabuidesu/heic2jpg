@@ -2,7 +2,7 @@
 > Simple HEIC converter script.
 ## Requirements
 In order to work, heic2jpg requires two Python modules: Pillow and pyheif.
-You can install them using the txt file in the heif2jpg repository:
+You can install them using the .txt file in the current repository:
 ```
 pip install -r requirements.txt
 ```
